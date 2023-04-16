@@ -7,5 +7,6 @@ This project is ALL about the use of git and GitHub for beginners. here I tried 
 3. use of this README.md (markdown file) to show other what is this project all about 
 4. next will try .gitignore
 5. Find How to Authenticate and connect Git Bash with GitHub Repo in such way the no need to provide password again and again
-6. Try new things
-7.This Line from PyCharm edit 
+6. Try new things 
+7. This Line from PyCharm edit
+8. Terminal in PyCharm
