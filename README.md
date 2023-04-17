@@ -10,3 +10,4 @@ This project is ALL about the use of git and GitHub for beginners. here I tried 
 6. Try new things 
 7. This Line from PyCharm edit
 8. Terminal in PyCharm
+9. push
